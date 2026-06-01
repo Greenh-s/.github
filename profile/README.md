@@ -3,8 +3,6 @@
 # We are Greenh@s (Greenhats) 
 
 
+"Green" developers. Newbies. Fresh meat.
 
-
-We aren't nessicarily a hacking organization, but we like screwing around with goofy viruses, and making our own :p
-
-They aren't really *that* dangerous, but if you run one, don't expect it to be all sunshine and roses lol.
+That's us :p
